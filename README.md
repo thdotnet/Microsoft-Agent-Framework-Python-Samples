@@ -15,7 +15,6 @@ Key capabilities:
 - [data-agent.py](data-agent.py): Minimal sample calling a Fabric Data Agent.
 - [http-tool.py](http-tool.py): FastAPI app exposing `GET /fabric?text=...` to proxy queries to a Fabric Data Agent.
 - [handoff.py](handoff.py): Workflow sample using tool functions that call Fabric Data Agents, demonstrating handoffs between agents.
-- [maf-dataagent.py](maf-dataagent.py): Async Azure AI Agent Framework sample creating an agent with tool functions bound to Fabric Data Agent queries.
 - [requirements.txt](requirements.txt): Python dependencies (beta packages included).
 
 ## Prerequisites
